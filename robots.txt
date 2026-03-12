@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://the-dog-house.vercel.app/sitemap.xml
+Sitemap: https://the-dog-house7.vercel.app/sitemap.xml
