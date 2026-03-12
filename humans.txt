@@ -1,0 +1,8 @@
+/* TEAM */
+Developer: The Dog House Landing
+Site: The Dog House — слот Pragmatic Play
+
+/* SITE */
+Last update: 2026
+Language: Russian
+Standards: HTML5, CSS3
